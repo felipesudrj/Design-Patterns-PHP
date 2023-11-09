@@ -11,3 +11,10 @@ com uma manutenção mais simples
 ### NEM TUDO SÃO FLORES ###
 Você não pode tornar sua Facade o centro do seu sistema, deixa-la muito grande ou centralizar todas as principais 
 ações do seu sistema dentro dela. Lembre-se da PSR e as boas práticas sobre tamanho de classes
+
+
+### ASSISTIR EXPLICAÇÃO ###
+
+https://youtu.be/ddinRKoCsPw
+
+[![Watch the video](https://img.youtube.com/vi/ddinRKoCsPw/maxresdefault.jpg)](https://youtu.be/ddinRKoCsPw)
