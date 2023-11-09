@@ -1,0 +1,17 @@
+{
+    "name": "felipe/design",
+    "autoload": {
+        "psr-4": {
+            "Felipe\\Design\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felipe PC",
+            "email": "felipe.devel@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.285"
+    }
+}
